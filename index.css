@@ -1,0 +1,31 @@
+/* body start */
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+/* body end */
+
+/* home slide start */
+.homeslide{
+    height: 800px;
+    background-image: url(images/background_images/h_img.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    text-align: center;
+}
+
+#logo-icon{
+    position: relative;
+    top: 30%;
+}
+.contentone{
+    position: relative;
+    top: 35%;
+}
+#mouse-icon{
+    position: relative;
+    top: 40%;
+}
