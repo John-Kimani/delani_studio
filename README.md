@@ -3,8 +3,17 @@ This web project explains what a brand by the name "DELANI STUDIO" is all about.
 The following slides have more infomation about them, what they do and a gallery comprising their previous projects.
 The portfolio has a few projects and their titles. The website links both potential and curios clients to connect and engage with the brand through their social media channels as redirected from this website.
 
+# SCREENSHOTS
+![Hero Section](/../assets/hero_section_screenshot.png)
+
+![About us](https://github.com/John-Kimani/delani_studio/blob/master/assets/about_us_screenshot.png)
+
+![Portfolio](https://github.com/John-Kimani/delani_studio/blob/master/assets/portfolio_screenshot.png)
+
+![Contact and socials](https://github.com/John-Kimani/delani_studio/blob/master/assets/contact_form_screenshot.png)
+
 # LIVE DEMO
-[live](#)
+[live](https://john-kimani.github.io/delani_studio/)
 
 ## Get Started
 To get a local copy to your machine.
