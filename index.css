@@ -60,9 +60,12 @@
 /* slide four start */
 .work{
     border: none;
-    height: 300px;
+    height: 350px;
     text-align: center;
     padding-top: 4%;
+}
+.work p{
+    display: none;
 }
 .workrow{
     display: flex;

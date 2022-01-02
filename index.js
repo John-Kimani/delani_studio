@@ -16,4 +16,9 @@ $(document).ready(function(){
 //form validation end
 
 // what we do functionality start
-
+$(document).ready(function(){
+    $(".design").on("click", function(){
+        $(".pointer").toggle();
+        $(".designtext").toggle();
+    });
+});
