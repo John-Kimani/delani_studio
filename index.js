@@ -16,6 +16,8 @@ $(document).ready(function(){
 //form validation end
 
 // what we do functionality start
+
+//design toggle effect
 $(document).ready(function(){
     $(".design").on("click", function(){
         $(".pointer").toggle();
@@ -23,9 +25,20 @@ $(document).ready(function(){
     });
 });
 
+//development toggle effect
 $(document).ready(function(){
     $(".development").on("click", function(){
         $(".devicon").toggle();
         $(".developmenttext").toggle();
     });
 });
+
+//product management toggle effect
+$(document).ready(function(){
+    $(".product-management").on("click", function(){
+        $(".checklist").toggle();
+        $(".product-management-txt").toggle();
+    });
+});
+
+// what we do functionality end
