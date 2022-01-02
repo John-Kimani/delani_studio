@@ -1,4 +1,4 @@
-// form validation
+// form validation start
 $(document).ready(function(){
     $("form#form").submit(function(event){
         var name = $("input#name").val();
@@ -12,3 +12,8 @@ $(document).ready(function(){
         }
     });
 });
+
+//form validation end
+
+// what we do functionality start
+
