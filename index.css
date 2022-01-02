@@ -75,10 +75,12 @@
 /* slide five start */
 .portfolio{
     border: 1px solid red;
-    height: 800px;
+    height: 600px;
     padding-top: 2%;
     text-align: center;
+
 }
 .port-row{
     display: flex;
+    justify-content: space-between;
 }
