@@ -59,8 +59,8 @@
 
 /* slide four start */
 .work{
-    border: 1px solid red;
-    height: 800px;
+    border: none;
+    height: 300px;
     text-align: center;
     padding-top: 4%;
 }
@@ -71,3 +71,5 @@
 }
 
 /* slide four end */
+
+/* slide five start */
