@@ -3,6 +3,9 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    font-family: 'Zilla Slab', serif;
+    font-weight: 600;
+    font-size: large;
 }
 /* body end */
 
@@ -16,7 +19,10 @@
     color: white;
     text-align: center;
 }
-
+.homeslide h2{
+    font-weight: 800;
+    /* font-size: xx-large; */
+}
 #logo-icon{
     position: relative;
     top: 30%;
@@ -33,9 +39,9 @@
 
 /* slide two start */
 .about{
-    height: 300px;
+    height: 350px;
     border: none;
-    padding-top: 4%;
+    padding-top: 2%;
     text-align: center;
     line-height: 220%;
 }
@@ -78,7 +84,7 @@
 /* slide five start */
 .portfolio{
     border: none;
-    height: 600px;
+    height: 650px;
     padding-top: 2%;
     text-align: center;
 
@@ -133,7 +139,7 @@
     border: 1px solid white;
     background: white;
     color: black;
-    margin-top: 2%;
+    margin-top: 1%;
 }
 /* slide six end */
 
