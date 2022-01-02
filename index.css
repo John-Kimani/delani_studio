@@ -84,7 +84,7 @@
 /* slide five start */
 .portfolio{
     border: none;
-    height: 650px;
+    height: 750px;
     padding-top: 2%;
     text-align: center;
 
@@ -92,6 +92,11 @@
 .port-row{
     display: flex;
     justify-content: space-between;
+}
+.dark{
+    /* color: white; */
+    font-size: 30px;
+    font-weight: bold;
 }
 /* slide five end */
 

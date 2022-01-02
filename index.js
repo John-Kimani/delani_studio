@@ -42,3 +42,15 @@ $(document).ready(function(){
 });
 
 // what we do functionality end
+
+// portfolio functionality start
+$(document).ready(function(){
+    $(".dark").mouseenter(function(){
+        $(".black").hide();
+        $(".dark").css("opacity", "3")
+    });
+    $(".dark").mouseleave(function(){
+        $(".black").hide();
+        $(".dark").css("opacity", "3")
+    });
+})
