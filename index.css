@@ -41,3 +41,17 @@
 }
 
 /* slide two end */
+
+/* slide three start */
+.services{
+    border: none;
+    height: 400px;
+    text-align: center;
+    line-height: 220%;
+    padding-top: 8%;
+    color: white;
+    background-image: url(images/background_images/s_image.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
