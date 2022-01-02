@@ -4,7 +4,7 @@ The following slides have more infomation about them, what they do and a gallery
 The portfolio has a few projects and their titles. The website links both potential and curios clients to connect and engage with the brand through their social media channels as redirected from this website.
 
 # SCREENSHOTS
-![Hero Section](/../assets/hero_section_screenshot.png)
+![Hero Section](https://github.com/John-Kimani/delani_studio/blob/master/assets/hero_section_screenshot.png)
 
 ![About us](https://github.com/John-Kimani/delani_studio/blob/master/assets/about_us_screenshot.png)
 
