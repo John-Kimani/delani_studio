@@ -56,3 +56,18 @@
     background-size: cover;
 }
 /* slide three end */
+
+/* slide four start */
+.work{
+    border: 1px solid red;
+    height: 800px;
+    text-align: center;
+    padding-top: 4%;
+}
+.workrow{
+    display: flex;
+    padding-top: 2%;
+    justify-content: space-around;
+}
+
+/* slide four end */
