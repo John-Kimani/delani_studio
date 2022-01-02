@@ -73,3 +73,12 @@
 /* slide four end */
 
 /* slide five start */
+.portfolio{
+    border: 1px solid red;
+    height: 800px;
+    padding-top: 2%;
+    text-align: center;
+}
+.port-row{
+    display: flex;
+}
