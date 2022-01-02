@@ -30,3 +30,14 @@
     top: 40%;
 }
 /* homeslide end */
+
+/* slide two start */
+.about{
+    height: 300px;
+    border: none;
+    padding-top: 4%;
+    text-align: center;
+    line-height: 220%;
+}
+
+/* slide two end */
