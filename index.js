@@ -22,3 +22,10 @@ $(document).ready(function(){
         $(".designtext").toggle();
     });
 });
+
+$(document).ready(function(){
+    $(".development").on("click", function(){
+        $(".devicon").toggle();
+        $(".developmenttext").toggle();
+    });
+});
