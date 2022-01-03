@@ -35,8 +35,6 @@ Repository link: [Delani Studio](https://github.com/John-Kimani/delani_studio.gi
 3. The web displays feedback via pop and alerts.
 4. Responsive website allowing vistors to view on various screensizes.
 
-## Known Bugs
-* Hover effect using Jquery is currently a WIP
 
 ## Author Info
 Author: John Kimani
