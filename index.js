@@ -53,4 +53,66 @@ $(document).ready(function(){
         $(".dark").hide();
         $(".black").css("opacity", "3")
     });
-})
+});
+
+$(document).ready(function(){
+    $(".mighty").mouseenter(function(){
+        $(".ontario").show();
+        $(".mighty").css("opacity","3")
+    });
+    $(".ontario").hide();
+    $(".mighty").css("opacity", "3")
+});
+
+$(document).ready(function(){
+    $(".color-orange").mouseenter(function(){
+        $(".orange").show();
+        $(".color-orange").css("opacity","3")
+    });
+    $(".orange").hide();
+    $(".color-orange").css("opacity", "3")
+});
+
+$(document).ready(function(){
+    $(".jim").mouseenter(function(){
+        $(".movies").show();
+        $(".jim").css("opacity","3")
+    });
+    $(".movies").hide();
+    $(".jim").css("opacity", "3")
+});
+
+$(document).ready(function(){
+    $(".good").mouseenter(function(){
+        $(".elena").show();
+        $(".good").css("opacity","3")
+    });
+    $(".elena").hide();
+    $(".good").css("opacity", "3")
+});
+
+$(document).ready(function(){
+    $(".calc").mouseenter(function(){
+        $(".cssbtns").show();
+        $(".calc").css("opacity","3")
+    });
+    $(".cssbtns").hide();
+    $(".calc").css("opacity", "3")
+});
+
+$(document).ready(function(){
+    $(".burned").mouseenter(function(){
+        $(".logo").show();
+        $(".burned").css("opacity","3")
+    });
+    $(".logo").hide();
+    $(".burned").css("opacity", "3")
+});
+$(document).ready(function(){
+    $(".giraffe").mouseenter(function(){
+        $(".restaurant").show();
+        $(".giraffe").css("opacity","3")
+    });
+    $(".restaurant").hide();
+    $(".giraffe").css("opacity", "3")
+});
