@@ -45,12 +45,12 @@ $(document).ready(function(){
 
 // portfolio functionality start
 $(document).ready(function(){
-    $(".dark").mouseenter(function(){
-        $(".black").hide();
-        $(".dark").css("opacity", "3")
+    $(".black").mouseenter(function(){
+        $(".dark").show();
+        $(".black").css("opacity", "3")
     });
-    $(".dark").mouseleave(function(){
-        $(".black").hide();
-        $(".dark").css("opacity", "3")
+    $(".black").mouseleave(function(){
+        $(".dark").hide();
+        $(".black").css("opacity", "3")
     });
 })
