@@ -12,7 +12,7 @@ The portfolio has a few projects and their titles. The website links both potent
 
 ![Contact and socials](https://github.com/John-Kimani/delani_studio/blob/master/assets/contact_form_screenshot.png)
 
-# LIVE DEMO
+## LIVE DEMO
 [live](https://john-kimani.github.io/delani_studio/)
 
 ## Get Started
@@ -20,7 +20,7 @@ To get a local copy to your machine.
 
 ### Setup
 * Download or clone files from this repo.
-Repository link: [Akan Names Generator](https://github.com/John-Kimani/delani_studio.git)
+Repository link: [Delani Studio](https://github.com/John-Kimani/delani_studio.git)
 
 ### Developed with
 * HTML for structure.
@@ -34,6 +34,9 @@ Repository link: [Akan Names Generator](https://github.com/John-Kimani/delani_st
 2. User can text the brand management and be able to submit their message.
 3. The web displays feedback via pop and alerts.
 4. Responsive website allowing vistors to view on various screensizes.
+
+## Known Bugs
+* Hover effect using Jquery is currently a WIP
 
 ## Author Info
 Author: John Kimani
