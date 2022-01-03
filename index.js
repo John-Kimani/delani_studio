@@ -60,8 +60,10 @@ $(document).ready(function(){
         $(".ontario").show();
         $(".mighty").css("opacity","3")
     });
-    $(".ontario").hide();
-    $(".mighty").css("opacity", "3")
+    $(".mighty").mouseleave(function(){
+        $(".ontario").hide();
+        $(".mighty").css("opacity", "3")
+    });
 });
 
 $(document).ready(function(){
@@ -69,8 +71,10 @@ $(document).ready(function(){
         $(".orange").show();
         $(".color-orange").css("opacity","3")
     });
-    $(".orange").hide();
-    $(".color-orange").css("opacity", "3")
+    $(".color-orange").mouseleave(function(){
+        $(".orange").hide();
+        $(".color-orange").css("opacity", "3")
+    });
 });
 
 $(document).ready(function(){
@@ -78,8 +82,10 @@ $(document).ready(function(){
         $(".movies").show();
         $(".jim").css("opacity","3")
     });
-    $(".movies").hide();
-    $(".jim").css("opacity", "3")
+    $(".jim").mouseleave(function(){
+        $(".movies").hide();
+        $(".jim").css("opacity", "3")
+    });
 });
 
 $(document).ready(function(){
@@ -87,8 +93,10 @@ $(document).ready(function(){
         $(".elena").show();
         $(".good").css("opacity","3")
     });
-    $(".elena").hide();
-    $(".good").css("opacity", "3")
+    $(".good").mouseleave(function(){
+        $(".elena").hide();
+        $(".good").css("opacity", "3")
+    });
 });
 
 $(document).ready(function(){
@@ -96,8 +104,10 @@ $(document).ready(function(){
         $(".cssbtns").show();
         $(".calc").css("opacity","3")
     });
-    $(".cssbtns").hide();
-    $(".calc").css("opacity", "3")
+    $(".calc").mouseleave(function(){
+        $(".cssbtns").hide();
+        $(".calc").css("opacity", "3")
+    });
 });
 
 $(document).ready(function(){
@@ -105,14 +115,18 @@ $(document).ready(function(){
         $(".logo").show();
         $(".burned").css("opacity","3")
     });
-    $(".logo").hide();
-    $(".burned").css("opacity", "3")
+    $(".burned").mouseleave(function(){
+        $(".logo").hide();
+        $(".burned").css("opacity", "3")
+    });
 });
 $(document).ready(function(){
     $(".giraffe").mouseenter(function(){
         $(".restaurant").show();
         $(".giraffe").css("opacity","3")
     });
-    $(".restaurant").hide();
-    $(".giraffe").css("opacity", "3")
+    $(".giraffe").mouseleave(function(){
+        $(".restaurant").hide();
+        $(".giraffe").css("opacity", "3")
+    });
 });

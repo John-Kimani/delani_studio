@@ -96,12 +96,96 @@
     font-size: 30px;
     font-weight: bold;
     position: relative;
-    top: -20%;
+    top: -50%;
     left: 10%;
     color: white;
     background-color: rgba(128, 128, 128, 0.3);
     width: 240px;
     height: 60px;
+    display: none;
+}
+.ontario{
+    font-size: 30px;
+    font-weight: bold;
+    position: relative;
+    top: -50%;
+    left: 10%;
+    color: white;
+    background-color: rgba(128, 128, 128, 0.8);
+    width: 240px;
+    height: 120px;
+    display: none;
+}
+.orange{
+    font-size: 30px;
+    font-weight: bold;
+    position: relative;
+    top: -50%;
+    left: 10%;
+    color: white;
+    background-color: rgba(128, 128, 128, 0.3);
+    width: 240px;
+    height: 160px;
+    display: none;
+}
+.movies{
+    font-size: 30px;
+    font-weight: bold;
+    position: relative;
+    top: -50%;
+    left: 10%;
+    color: white;
+    background-color: rgba(128, 128, 128, 0.3);
+    width: 240px;
+    height: 60px;
+    display: none;
+}
+.elena{
+    font-size: 30px;
+    font-weight: bold;
+    position: relative;
+    top: -50%;
+    left: 10%;
+    color: white;
+    background-color: rgba(128, 128, 128, 0.3);
+    width: 240px;
+    height: 60px;
+    display: none;
+}
+.cssbtns{
+    font-size: 30px;
+    font-weight: bold;
+    position: relative;
+    top: -50%;
+    left: 10%;
+    color: white;
+    background-color: rgba(128, 128, 128, 0.3);
+    width: 240px;
+    height: 100px;
+    display: none;
+}
+.logo{
+    font-size: 30px;
+    font-weight: bold;
+    position: relative;
+    top: -50%;
+    left: 10%;
+    color: white;
+    background-color: rgba(128, 128, 128, 0.3);
+    width: 240px;
+    height: 130px;
+    display: none;
+}
+.restaurant{
+    font-size: 30px;
+    font-weight: bold;
+    position: relative;
+    top: -50%;
+    left: 10%;
+    color: white;
+    background-color: rgba(128, 128, 128, 0.3);
+    width: 240px;
+    height: 100px;
     display: none;
 }
 
