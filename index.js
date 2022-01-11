@@ -8,7 +8,7 @@ $(document).ready(function(){
             alert (name + ",we have received your message. Thank you for considering us. We shall respond as soon as possible. Cheers!");
         }
         else{
-            alert ("Please enter you name and email!");
+            alert ("Please enter your name and email!");
         }
     });
 });
