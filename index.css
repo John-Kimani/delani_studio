@@ -82,15 +82,15 @@
 /* slide five start */
 .portfolio{
     border: none;
-    height: 750px;
+    /* height: 750px; */
     padding-top: 2%;
     text-align: center;
 
 }
-.port-row{
+/* .port-row{
     display: flex;
     justify-content: space-between;
-}
+} */
 .dark{
     font-size: 30px;
     font-weight: bold;
